@@ -18,8 +18,8 @@ This project is a **deep learning-based** application that detects a person's **
 ## 🛠 Installation & Usage  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/age-gender-detection.git
-   cd age-gender-detection
+   git clone https://github.com/aslin72/AGE_GENDER_DETECTION.git
+   cd AGE_GENDER_DETECTION
    ```  
 2. **Install dependencies**  
    ```bash
